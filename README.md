@@ -13,7 +13,7 @@ This will be the repository for our **Senior Design (421)** class. This will hol
 The **Math Equation Editor** is a lightweight, browser-based tool that allows users to write, preview, and test **LaTeX-style math expressions** in real time using **MathJax**. It’s ideal for students, educators, or anyone working with mathematical content who wants a clean interface to visualize equations quickly.
 
 ---
-
+ 
 ## ✨ Features
 
 - 🧠 Real-time LaTeX equation rendering with MathJax
